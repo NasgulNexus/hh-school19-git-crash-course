@@ -1,1 +1,1 @@
-alert('Hello world');
+conosle.log('Hello world');
